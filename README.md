@@ -1,4 +1,4 @@
-# Bitcoke Api
+# BitCoke Api
 
 ### Document
 https://www.bitcoke.com/api-doc/
