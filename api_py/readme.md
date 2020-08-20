@@ -1,23 +1,22 @@
-### 工具
-python版本：3.6+ （建议3.8）
+### Tools
+Python version：3.6+ （3.8 recommended）
 
-安装所需库
+Installation required Library
 ```
 pip install requests
 pip install websockets
 ```
 
 
-### 接口Demo
+### Api Demo
 
-* #### restApi
-运行```example.py```
-解开相应方法的注释查看调用结果
+* #### RestApi
+Running ```example.py```
+and uncomment the corresponding method to see the result of the call.
 
-* ##### webSocketApi
-运行```websocket_example.py```
-根据交易/市场选择对应启动方法解开注释查看调用结果
+* ##### WebSocketApi
+Running ```websocket_example.py```
+according to the trade / market, select the corresponding startup method, uncomment to view the call result
 
-
-### 官方文档
+### Document
 https://www.bitcoke.com/api-doc/
