@@ -1,6 +1,6 @@
 # Bitcoke Api
 
-### 官方文档
+### Document
 https://www.bitcoke.com/api-doc/
 
 ### Api Demo
