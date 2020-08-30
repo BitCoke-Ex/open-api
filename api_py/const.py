@@ -30,7 +30,7 @@ ORDER_TYPE_MARKET = 'Market'
 
 #Order side
 SIDE_BUY = 'Buy'
-SIDE_SELL = 'SELL'
+SIDE_SELL = 'Sell'
 
 #Type of advanced order
 TIF_GOOD_TILL_CANCEL = 'GOOD_TILL_CANCEL'
