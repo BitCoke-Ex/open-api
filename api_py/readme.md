@@ -14,7 +14,7 @@ pip install websockets
 Running ```example.py```
 and uncomment the corresponding method to see the result of the call.
 
-* ##### WebSocketApi
+* #### WebSocketApi
 Running ```websocket_example.py```
 according to the trade / market, select the corresponding startup method, uncomment to view the call result
 
